@@ -1,0 +1,49 @@
+/* Michelle Wong Yu Miin
+   INFO 340
+   24 July 2020 */
+
+body {
+    background-color: rgb(170, 224, 255);
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif ;
+  }
+
+img {
+    max-height: 400px;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(41, 80, 185);
+    background-color: rgb(247, 247, 247); 
+    text-align: center;
+}
+ 
+ /* This would be another, second rule */
+ h2 {
+    color: rgb(41, 80, 185);
+    background-color: rgb(247, 247, 247);
+    text-align: center;
+}
+
+ p {
+    text-align: justify;
+    margin-right: 200px;
+    margin-left: 200px;
+    line-height: 1.5;
+}
+
+ol {
+    margin-left: 200px;
+}
+
+li {
+    text-align: justify;
+}
+
+.colored {
+    color: rgb(255, 255, 255);
+}
